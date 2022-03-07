@@ -1,1 +1,1 @@
-Created a simple RC Tank that can be remotely controlled using Blynk.
+Created an RC Tank with NodeMCU-ESP8266 that can be remotely controlled using Blynk.
