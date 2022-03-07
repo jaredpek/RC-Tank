@@ -1,1 +1,1 @@
-Created a simple RC car that can be controlled using Blynk.
+Created a simple RC Tank that can be remotely controlled using Blynk.
