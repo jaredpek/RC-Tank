@@ -19,9 +19,9 @@ int EN1 = 12;                 // Pin 15 of L293D IC, D6 Pin of NodeMCU
 int EN2 = 14;                 // Pin 9 of L293D IC, D5 Pin of NodeMCU
 
 // Go to the Project Settings
-char auth[] = "kjUAR4DvSJ5lM4YmtJP3Tzj-DPC4zw70";
-char ssid[] = "JARED PHONE"; 
-char pass[] = "jaredphone2021"; 
+char auth[] = <BYLNK AUTH KEY>;
+char ssid[] = <PHONE HOTSPOT SSID>; 
+char pass[] = <HOTSPOT PASSWORD>; 
 
 BLYNK_WRITE(V1)
 {
