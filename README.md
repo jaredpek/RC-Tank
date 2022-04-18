@@ -1,12 +1,14 @@
 Project Description:
-- This is an RC-Tank made using ESP8266 NodeMCU. It is controlled via the Blynk app on a Mobile Device
+- This is an RC-Tank made using ESP8266 NodeMCU, controlled via the Blynk app on a Mobile Device. It can move in All Directions at a User-Indicated Speed, as well as Aim and Fire a loaded Rubber-Band.
 
 Tank Components:
 - 1x ESP8266 NodeMCU
 - 1x L298N Motor Driver
+- 6x D-Size Batteries & Battery Holders
 - 4x Motors
 - 3x Servos
 - 1x Ice Cream Stick
+- 1x Rubber Band
 - 6x D-Size Batteries & Battery Holders
 - Other Materials For Tank Body
 
